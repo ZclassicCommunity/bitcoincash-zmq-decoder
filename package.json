@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bitcoinjs-lib": "ZSLP/bitgo-utxo-lib#970727c95fa8427d6f6defc5df7472851ceb031f"
+    "bitcoinjs-lib": "ZclassicCommunity/bitgo-utxo-lib#5fb919db8effa706fe521f89fff13fae9f818a87"
   },
   "repository": {
     "type": "git",
